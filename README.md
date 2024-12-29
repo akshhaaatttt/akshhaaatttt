@@ -17,7 +17,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/akshat-jain-516404303">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-    <a href="https://twitter.com/https://x.com/akshat151105?t=govdvatwagexk7dvagucbg&s=08">
+    <a href="https://x.com/Akshat151105?t=5s6WIwClp99OFN2mG-ADDg&s=09">
     <img src="https://skillicons.dev/icons?i=twitter" />
      <a href="https://www.instagram.com/_akshhaaatttt?igsh=YzJ4MDl0MjJpM284">
     <img src="https://skillicons.dev/icons?i=instagram" />
