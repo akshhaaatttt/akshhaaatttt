@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/akshat-jain-516404303">
+  <a href="https://www.linkedin.com/in/akshat-jain-516404303">
     <img src="https://skillicons.dev/icons?i=linkedin" />
     <a href="https://twitter.com/https://x.com/akshat151105?t=govdvatwagexk7dvagucbg&s=08">
     <img src="https://skillicons.dev/icons?i=twitter" />
