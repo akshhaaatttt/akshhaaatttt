@@ -1,38 +1,71 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Akshat Jain</h1>
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-<h3 align="center">A passionate web developer</h3>
+<!-- Header Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Akshat+Jain;A+Passionate+Web+Developer;Always+learning+new+things" alt="Typing SVG" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=akshhaaatttt&label=Profile%20views&color=0e75b6&style=flat)
+</div>
 
+<!-- About Me Section -->
+<div align="left">
+  <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation"/>
+  
+  ### 🚀 Quick Overview
+  - 🔭 Working on: [Udaan Website](https://udaan-aeromodelling-club.vercel.app/)
+  - 🌱 Learning: **MERN Stack, JavaScript, React.js**
+  - 💬 Expertise: **UI/UX Design**
+  - 📫 Contact: **akshatjain1507@gmail.com**
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshhaaatttt&label=Profile%20views&color=0e75b6&style=flat" alt="akshhaaatttt" /> </p>
+<!-- Connect Section -->
+<div align="left">
+  <h3>🤝 Connect with me:</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jain-516404303)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Akshat151105)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_akshhaaatttt)
+</div>
 
-- 🔭 I’m currently working on [Udaan Website](https://udaan-aeromodelling-club.vercel.app/)
+<!-- Skills Section -->
+<div align="left">
+  <h3>🛠️ Languages and Tools:</h3>
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,html,js,linux,nodejs,python,react,tailwind" alt="Skills" />
+</div>
 
-- 🌱 I’m currently learning **MERN,JavaScript,React.js**
+<!-- GitHub Stats Section -->
+<div align="center">
+  
+  ### 📊 GitHub Statistics
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=akshhaaatttt&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshhaaatttt&theme=radical" alt="GitHub Streak" />
+</div>
 
-- 💬 Ask me about **UI&UX**
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/akshhaaatttt/akshhaaatttt/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/akshhaaatttt/akshhaaatttt/output/github-contribution-grid-snake.svg"
+    />
+    <img 
+      alt="github contribution grid snake animation" 
+      src="https://raw.githubusercontent.com/akshhaaatttt/akshhaaatttt/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
 
-- 📫 How to reach me **akshatjain1507@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/akshat-jain-516404303">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-    <a href="https://x.com/Akshat151105?t=5s6WIwClp99OFN2mG-ADDg&s=09">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-     <a href="https://www.instagram.com/_akshhaaatttt?igsh=YzJ4MDl0MjJpM284">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-    
-  </a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshhaaatttt)](https://github.com/akshhaaatttt/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshhaaatttt&" alt="akshhaaatttt" /></p>
-
-<!---
-akshhaaatttt/akshhaaatttt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Activity & Trophies Section -->
+<div align="center">
+  
+  ### 🏆 GitHub Activity
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshhaaatttt&theme=react-dark" alt="Contribution Graph" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=akshhaaatttt&theme=radical" alt="GitHub Trophies" />
+</div>
