@@ -32,16 +32,18 @@
 <div align="center">
   
   ### 📊 GitHub Statistics
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=akshhaaatttt&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshhaaatttt&theme=radical" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshhaaatttt&layout=compact&theme=radical" alt="Top Languages" />
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=akshhaaatttt&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; margin: 1%;" />
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshhaaatttt&theme=radical" alt="GitHub Streak" style="width: 48%; margin: 1%;" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshhaaatttt&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; margin: 1%;" />
+  </div>
 </div>
 
-<div align="center">
-  
   ### 🏆 GitHub Activity
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshhaaatttt&theme=react-dark" alt="Contribution Graph" />
