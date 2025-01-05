@@ -52,4 +52,8 @@
   
   <img src="https://github-profile-trophy.vercel.app/?username=akshhaaatttt&theme=radical" alt="GitHub Trophies" />
 
+  ### 🎗️Badges
+
+  [![An image of @akshhaaatttt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshhaaatttt)](https://holopin.io/@akshhaaatttt)
+
 </div>
