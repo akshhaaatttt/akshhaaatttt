@@ -44,9 +44,14 @@
   </div>
 </div>
 
+  <div align="center">
+    
   ### 🏆 GitHub Activity
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshhaaatttt&theme=react-dark" alt="Contribution Graph" />
   
   <img src="https://github-profile-trophy.vercel.app/?username=akshhaaatttt&theme=radical" alt="GitHub Trophies" />
+
+
+
 </div>
