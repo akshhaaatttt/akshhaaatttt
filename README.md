@@ -1,12 +1,11 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-<!-- Header Section -->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Akshat+Jain;A+Passionate+Web+Developer;Always+learning+new+things" alt="Typing SVG" />
   
   ![Profile Views](https://komarev.com/ghpvc/?username=akshhaaatttt&label=Profile%20views&color=0e75b6&style=flat)
 </div>
 
-<!-- About Me Section -->
 <div align="left">
   <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation"/>
   
@@ -17,7 +16,6 @@
   - 📫 Contact: **akshatjain1507@gmail.com**
 </div>
 
-<!-- Connect Section -->
 <div align="left">
   <h3>🤝 Connect with me:</h3>
   
@@ -26,13 +24,11 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_akshhaaatttt)
 </div>
 
-<!-- Skills Section -->
 <div align="left">
   <h3>🛠️ Languages and Tools:</h3>
   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,html,js,linux,nodejs,python,react,tailwind" alt="Skills" />
 </div>
 
-<!-- GitHub Stats Section -->
 <div align="center">
   
   ### 📊 GitHub Statistics
@@ -40,9 +36,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akshhaaatttt&show_icons=true&theme=radical" alt="GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshhaaatttt&theme=radical" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshhaaatttt&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<!-- Activity & Trophies Section -->
 <div align="center">
   
   ### 🏆 GitHub Activity
