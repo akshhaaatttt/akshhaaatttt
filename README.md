@@ -52,6 +52,4 @@
   
   <img src="https://github-profile-trophy.vercel.app/?username=akshhaaatttt&theme=radical" alt="GitHub Trophies" />
 
-
-
 </div>
