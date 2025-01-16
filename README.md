@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Akshat+Jain;A+Passionate+Web+Developer;Always+learning+new+things" alt="Typing SVG" />
   
   ![Profile Views](https://komarev.com/ghpvc/?username=akshhaaatttt&label=Profile%20views&color=0e75b6&style=flat)
+  
 </div>
 
 <div align="left">
