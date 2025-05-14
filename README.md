@@ -14,7 +14,7 @@
 
   
   ### 🚀 Quick Overview
-  - 🔭 Working on: [Udaan Website](https://udaan-aeromodelling-club.vercel.app/)
+  - 🔭 Exploring Web3
   - 🌱 Learning: **MERN Stack, JavaScript, React.js**
   - 💬 Expertise: **UI/UX Design**
   - 📫 Contact: **akshatjain1507@gmail.com**
