@@ -14,8 +14,8 @@
 
   
   ### 🚀 Quick Overview
-  - 🔭 Exploring Web3
-  - 🌱 Learning: **MERN Stack, JavaScript, React.js**
+  - 🔭 Exploring Web3, AI/ML
+  - 🌱 Learning: **How to build good**
   - 💬 Expertise: **UI/UX Design**
   - 📫 Contact: **akshatjain1507@gmail.com**
 </div>
