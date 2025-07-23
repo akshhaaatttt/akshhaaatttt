@@ -37,7 +37,6 @@
 
 
   ### 📊 GitHub Statistics
-/*
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=akshhaaatttt&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; margin: 1%;" />
   </div>
@@ -57,7 +56,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshhaaatttt&theme=react-dark" alt="Contribution Graph" />
   
   <img src="https://github-profile-trophy.vercel.app/?username=akshhaaatttt&theme=radical" alt="GitHub Trophies" />
-*/
   ### 🎗️Badges
 
   [![An image of @akshhaaatttt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshhaaatttt)](https://holopin.io/@akshhaaatttt)
