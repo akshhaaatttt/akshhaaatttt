@@ -33,23 +33,7 @@
   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,html,js,linux,nodejs,python,react,tailwind" alt="Skills" />
 </div>
 
-<div align="center">
 
-
-  ### 📊 GitHub Statistics
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=akshhaaatttt&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; margin: 1%;" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshhaaatttt&theme=radical" alt="GitHub Streak" style="width: 48%; margin: 1%;" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshhaaatttt&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; margin: 1%;" />
-  </div>
-</div>
-
-  <div align="center">
-    
   
   ### 🏆 GitHub Activity
   
