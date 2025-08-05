@@ -28,15 +28,16 @@
   
   <div align="left" width="50%">
     
-  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> *About Me:*
+  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ **About Me:**
   
-  🚀 *Full Stack Developer* passionate about creating digital experiences  
-  🎨 *UI/UX Designer* with an eye for beautiful interfaces  
-  🌱 Currently exploring *Web3, AI/ML, and Blockchain*  
-  💡 Always excited to learn *new technologies and frameworks*  
-  🛠 Building projects that *make a difference*  
-  📫 Let's connect: *akshatjain1507@gmail.com*  
-  ⚡ Fun fact: *I debug with coffee ☕*  
+  🚀 **Full Stack Developer** passionate about creating digital experiences  
+  🎨 **UI/UX Designer** with an eye for beautiful interfaces  
+  🌱 Currently exploring **Web3, AI/ML, and Blockchain**  
+  💡 Always excited to learn **new technologies and frameworks**  
+  🛠️ Building projects that **make a difference**  
+  📫 Let's connect: **akshatjain1507@gmail.com**  
+  ⚡ Fun fact: **I debug with coffee ☕**  
   
   </div>
 </div>
