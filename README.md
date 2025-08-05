@@ -116,7 +116,7 @@
 
 
 <!-- Current Projects -->
-<h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> <em>What I'm Working On:</em></h2>
+<h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> <em>What I'm Working On:</em></h2>
 
 <div align="center">
 
