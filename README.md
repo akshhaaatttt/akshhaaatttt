@@ -16,9 +16,6 @@
 <!-- Profile Views and Followers -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=akshhaaatttt&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/akshhaaatttt?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/akshhaaatttt?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Lives-India-orange?style=for-the-badge" alt="Lives" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen?style=for-the-badge" alt="Languages" />
 </div>
@@ -80,7 +77,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/Akshat151105)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/_akshhaaatttt)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/akshhaaatttt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722)](https://akshhaaatttt.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:akshatjain1507@gmail.com)
 
 </div>
@@ -122,14 +119,14 @@
 
 <div align="center">
 
-javascript
+```javascript
 const akshat = {
     currentFocus: ["Web Development", "UI/UX Design", "Open Source"],
     learningNext: ["Web3", "Machine Learning", "Cloud Architecture"],
     funFact: "I believe in clean code and pixel-perfect designs ✨",
     motto: "Code with passion, design with purpose 🚀"
 };
-
+```
 
 </div>
 
