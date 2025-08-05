@@ -97,7 +97,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" alt="Backend" />
 
 ### *Tools & Platforms:*
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker,aws,vercel" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,aws,vercel" alt="Tools" />
 
 ### *Hardware & IoT:*
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Hardware" />
