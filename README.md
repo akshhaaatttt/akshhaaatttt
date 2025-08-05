@@ -28,8 +28,7 @@
   
   <div align="left" width="50%">
     
-  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- **About Me:**
+  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> *About Me:*
   
   🚀 **Full Stack Developer** passionate about creating digital experiences  
   🎨 **UI/UX Designer** with an eye for beautiful interfaces  
